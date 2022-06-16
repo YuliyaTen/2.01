@@ -28,7 +28,6 @@
                         <color key="backgroundColor" red="0.20784313730000001" green="0.52156862749999999" blue="0.5450980392" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="QeR-uS-O9i" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="11C-Zc-UmJ"/>
-                            <constraint firstItem="QeR-uS-O9i" firstAttribute="width" secondItem="fLS-ET-yVh" secondAttribute="width" id="710-TJ-tEI"/>
                             <constraint firstItem="fLS-ET-yVh" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="JMD-Nf-HvA"/>
                             <constraint firstItem="QeR-uS-O9i" firstAttribute="top" secondItem="fLS-ET-yVh" secondAttribute="bottom" constant="60" id="SOS-Bh-flm"/>
                             <constraint firstItem="fLS-ET-yVh" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="47" id="aGo-L6-XVg"/>
